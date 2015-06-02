@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta name="exporter-version" content="Evernote Mac 6.0.11 (451580)"/><meta name="created" content="2015-06-02 11:05:21 +0000"/><meta name="source" content="web.clip"/><meta name="source-url" content="http://www.worldhello.net/gotgithub/"/><meta name="updated" content="2015-06-02 11:05:21 +0000"/><title>GotGitHub — GotGitHub</title></head><body><br/><div style="font-size: 16px"><div><div style="font-family:Rockwell, Verdana, sans-serif;font-size:1.1em;letter-spacing:0em;line-height:150%;text-align:center;color:rgb(53, 59, 64);background:url(http://www.worldhello.net/images/header_bg.gif) 50% 0% repeat-x rgb(255, 255, 255);border-radius:1.5em;"><div style="text-align:left;background-image:url(http://www.worldhello.net/gotgithub/static/contents.png);background-color:white;background-repeat:repeat-x;"><div><div><div>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta name="exporter-version" content="Evernote Mac 6.0.11 (451580)"/><meta name="created" content="2015-06-02 11:05:21 +0000"/><meta name="source" content="web.clip"/><meta name="source-url" content="http://www.worldhello.net/gotgithub/"/><meta name="updated" content="2015-06-02 11:05:21 +0000"/></head><body><br/><div style="font-size: 16px"><div><div style="font-family:Rockwell, Verdana, sans-serif;font-size:1.1em;letter-spacing:0em;line-height:150%;text-align:center;color:rgb(53, 59, 64);background:url(http://www.worldhello.net/images/header_bg.gif) 50% 0% repeat-x rgb(255, 255, 255);border-radius:1.5em;"><div style="text-align:left;background-image:url(http://www.worldhello.net/gotgithub/static/contents.png);background-color:white;background-repeat:repeat-x;"><div><div><div>
             
   <div>
 <h1 style="margin:0px;padding:0.7em 0px 0.3em;font-size:1.5em;color:rgb(17, 85, 124);">GotGitHub<a href="http://www.worldhello.net/gotgithub/#gotgithub" title="永久链接至标题" style="color:black;text-decoration:none;font-weight:normal;visibility:hidden;font-size:1em;margin-left:6px;padding:0px 4px;">¶</a></h1>
@@ -184,5 +182,3 @@
 </div>
 </div>
 
-
-          </div></div></div></div></div></div></div><br/></body></html>
