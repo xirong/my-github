@@ -6,6 +6,7 @@
 
 - [github 入门使用教程-图文并茂](http://developer.51cto.com/art/201407/446249_all.htm) 很简洁的说明如何使用，看图即可明白。	
 - [github help](https://help.github.com/) Sometimes you just need a little help. 中文翻译版在此[Github 帮助文档](https://github.com/waylau/github-help)。
+- [github 之 fork 简介指南](https://linux.cn/article-4292-1.html) 帮你理解清楚什么是fork，fork 的工作流有哪些。
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) 关于使用 git 和 github 的一些技巧汇总，中文版在此[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 - [The GitHub Blog](https://github.com/blog) github 官方博客，关注最新动态。
 - [How to Build a GitHub](http://zachholman.com/talk/how-to-build-a-github/) Github一名早期员工介绍Github的历史，5年108名员工无人离职。
