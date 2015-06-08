@@ -2,7 +2,7 @@
 说明
 ==============
 作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？
-在这里搜集整理网络上面的资料，汇总成这么一篇repo 《Github使用指南》，欢迎`fork - modify - pull request` 一起学习。
+在这里搜集整理网络上面的资料，汇总成这么一篇repo 《Github使用指南》，欢迎`fork - modify - pull request` 一起学习。 :octocat:
 
 - [github 入门使用教程-图文并茂](http://developer.51cto.com/art/201407/446249_all.htm) 很简洁的说明如何使用，看图即可明白。	
 - [github help](https://help.github.com/) Sometimes you just need a little help. 中文翻译版在此[Github 帮助文档](https://github.com/waylau/github-help)。
