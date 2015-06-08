@@ -12,3 +12,4 @@
 - [How to Build a GitHub](http://zachholman.com/talk/how-to-build-a-github/) Github一名早期员工介绍Github的历史，5年108名员工无人离职。
 - [阳志平：如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html) 介绍的挺全，以及一些用法，如怎样利用Github来学习、演讲找工作等。
 - [蒋鑫-GotGitHub](https://github.com/xirong/my-github/wiki/GotGitHub) 《Git权威指南》的作者，对Github有很深的了解。（由于首页打开太慢，放到了本文目录中）
+- [github 支持的 emoji表情](http://www.emoji-cheat-sheet.com/) :v: :clap:
