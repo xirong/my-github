@@ -1,6 +1,12 @@
 
 说明
 ==============
+
+2015-07 更新 
+repo 放弃更新，全部转移到 my-git 中 ，详细参考：https://github.com/xirong/my-git/blob/master/how-to-use-github.md ，以后更新均在 my-git 中进行。
+
+============== 
+
 作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？
 在这里搜集整理网络上面的资料，汇总成这么一篇repo 《Github使用指南》，欢迎`fork - modify - pull request` 一起学习 :octocat: 。
 
